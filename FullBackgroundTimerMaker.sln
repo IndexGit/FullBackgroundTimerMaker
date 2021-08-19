@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FullBackgroundTimerMaker", "FullBackgroundTimerMaker\FullBackgroundTimerMaker.csproj", "{31D8CA09-8A11-48FF-81BA-689FB5D3F444}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerClases", "TimerClases\TimerClases.csproj", "{35A430BE-E062-4D42-B21F-53C931872282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31D8CA09-8A11-48FF-81BA-689FB5D3F444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31D8CA09-8A11-48FF-81BA-689FB5D3F444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31D8CA09-8A11-48FF-81BA-689FB5D3F444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31D8CA09-8A11-48FF-81BA-689FB5D3F444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A430BE-E062-4D42-B21F-53C931872282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A430BE-E062-4D42-B21F-53C931872282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A430BE-E062-4D42-B21F-53C931872282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A430BE-E062-4D42-B21F-53C931872282}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		BuildVersion_AssemblyInfoFilename = FullBackgroundTimerMaker\Properties\AssemblyInfo.cs
+		BuildVersion_UseGlobalSettings = True
+		BuildVersion_StartDate = 2000/1/1
+	EndGlobalSection
+EndGlobal
